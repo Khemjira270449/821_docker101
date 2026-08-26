@@ -1,0 +1,10 @@
+docker -v
+docker ps
+docker ps --all ตรวจสอบ
+dockerrun hello word
+docker images
+docker run busybox ls
+docker run busybox ping google.com //ping google.com//
+docker stop ตามด้วย ID
+docker rm ตามด้วย ID
+docker run nginx // run server
